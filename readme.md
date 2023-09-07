@@ -35,7 +35,7 @@ This application uses the public API provided by Pixabay as its backend service 
 
 ![Alt text](assets/1.jpg)
 ![Alt text](assets/2.jpg)
-![Alt text](assets/3.jpg) 
+![Alt text](assets/3-2.jpg) 
 ![Alt text](assets/4.jpg)
 
 
